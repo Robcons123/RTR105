@@ -59,3 +59,4 @@ Pimērs ar emoji: 🍪
 - rmdir - izdzēš mapi
 - git clone /repozitorija nosaukums/ - lejupielādē repozitoriju
 - history - komandu vēsture
+- git config --global user.email (epasts); git config --global user.name (username); git commit -m "Nosaukums"; git push origin main - augšupielādē github failu
