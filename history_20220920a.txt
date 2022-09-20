@@ -97,3 +97,24 @@
    97  ./git-upload
    98  history
    99  history > history_20220920a.txt
+  100  ./git-upload
+  101  cd ..
+  102  pwd
+  103  rm -rf RTR105
+  104  ls -lt
+  105  rm -rf history_20220913a.txt 
+  106  ls -lt
+  107  history | grep git
+  108  history | grep clone
+  109  git clone https://github.com/Robcons123/RTR105
+  110  cd RTR105
+  111  ls -lt
+  112  echo $PATH
+  113  PATH=$PATH
+  114  echo $PATH
+  115  PATH=$PATH:./
+  116  echo $PATH
+  117  history > history_20220920a.txt
+  118  ls -lt
+  119  ls -lta ~/ | grep hist
+  120  history > history_20220920a.txt
