@@ -1,0 +1,5 @@
+#!/bin/bash
+git add . #komanda "uzmanaamo" mapju pievienosanai
+git config --global user.name Robcons123
+git commit -m "Class_04a"
+git push origin main

@@ -1,0 +1,53 @@
+    1  who
+    2  whoami
+    3  git clone https://github.com/Robcons123/RTR105
+    4  sudo apt install git
+    5  git clone https://github.com/Robcons123/RTR105
+    6  ls
+    7  ls -lt
+    8  history
+    9  history history_20220913a.txt
+   10  history -history_20220913a.txt
+   11  history_20220913a.txt
+   12  history>history_20220913a.txt
+   13  ls-lt
+   14  ls -lt
+   15  cat history_20220913a.txt
+   16  git config --global user.email cipruss.roberts@gmail.com
+   17  git config --global user.name Robcons123
+   18  git commit -m class_3
+   19  git commit -m class_3.git
+   20  git push origin main
+   21  cd 
+   22  cr RTR105
+   23  cd RTR105
+   24  ls -lt
+   25  cat README.md
+   26  exit
+   27  init0
+   28  init 0
+   29  cd
+   30  pwd
+   31  ls
+   32  whereis ls
+   33  /bin/ls
+   34  echo $PATH
+   35  git clone https://github.com/Robcons123/RTR105
+   36  git clone https://github.com/Robcons123/RTR105_01
+   37  rm RTR105
+   38  rmdir RTR105
+   39  cd RTR105
+   40  ls
+   41  rm README.md
+   42  cd
+   43  rmdir RTR105
+   44  cd RTR105
+   45  ls
+   46  ls -l
+   47  cd
+   48  git clone https://github.com/Robcons123/RTR105
+   49  ls -lt
+   50  cd RTR105
+   51  pwd
+   52  history
+   53  history > history_20220920.txt
