@@ -1,0 +1,99 @@
+    1  who
+    2  whoami
+    3  git clone https://github.com/Robcons123/RTR105
+    4  sudo apt install git
+    5  git clone https://github.com/Robcons123/RTR105
+    6  ls
+    7  ls -lt
+    8  history
+    9  history history_20220913a.txt
+   10  history -history_20220913a.txt
+   11  history_20220913a.txt
+   12  history>history_20220913a.txt
+   13  ls-lt
+   14  ls -lt
+   15  cat history_20220913a.txt
+   16  git config --global user.email cipruss.roberts@gmail.com
+   17  git config --global user.name Robcons123
+   18  git commit -m class_3
+   19  git commit -m class_3.git
+   20  git push origin main
+   21  cd 
+   22  cr RTR105
+   23  cd RTR105
+   24  ls -lt
+   25  cat README.md
+   26  exit
+   27  init0
+   28  init 0
+   29  cd
+   30  pwd
+   31  ls
+   32  whereis ls
+   33  /bin/ls
+   34  echo $PATH
+   35  git clone https://github.com/Robcons123/RTR105
+   36  git clone https://github.com/Robcons123/RTR105_01
+   37  rm RTR105
+   38  rmdir RTR105
+   39  cd RTR105
+   40  ls
+   41  rm README.md
+   42  cd
+   43  rmdir RTR105
+   44  cd RTR105
+   45  ls
+   46  ls -l
+   47  cd
+   48  git clone https://github.com/Robcons123/RTR105
+   49  ls -lt
+   50  cd RTR105
+   51  pwd
+   52  history
+   53  history > history_20220920.txt
+   54  ls -lt
+   55  nano git-upload
+   56  ls -lt
+   57  cat git-upload
+   58  git
+   59  git-upload
+   60  /home/user/RTR105/git-upload
+   61  /user/RTR105/git-upload
+   62  ls RTR105
+   63  cd
+   64  ls /RTR105
+   65  ls
+   66  cd RTR105
+   67  ls
+   68  /RTR105/git-upload
+   69  RTR105/git-upload
+   70  ls
+   71  git/upload
+   72  git-upload
+   73  pwd
+   74  /home/roberts/RTR105/git-upload
+   75  ls -lt git-upload
+   76  chmod 764 git-upload 
+   77  ls -lt git-upload
+   78  git-upload
+   79  git-
+   80  git-upload
+   81  echo $PATH
+   82  ./git-upload
+   83  nano git-upload
+   84  ./git-upload
+   85  nano git-upload
+   86  ./git-upload
+   87  git clone https://github.com/Robcons123/RTR105
+   88  nano git-upload
+   89  ./git-upload
+   90  cd
+   91  ls
+   92  nano git-upload
+   93  cd RTR105
+   94  nano git-upload
+   95  ./git-upload
+   96  nano git-upload
+   97  ./git-upload
+   98  history
+   99  history > history_20220920a.txt
