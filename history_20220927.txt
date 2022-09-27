@@ -1,0 +1,233 @@
+    1  who
+    2  whoami
+    3  git clone https://github.com/Robcons123/RTR105
+    4  sudo apt install git
+    5  git clone https://github.com/Robcons123/RTR105
+    6  ls
+    7  ls -lt
+    8  history
+    9  history history_20220913a.txt
+   10  history -history_20220913a.txt
+   11  history_20220913a.txt
+   12  history>history_20220913a.txt
+   13  ls-lt
+   14  ls -lt
+   15  cat history_20220913a.txt
+   16  git config --global user.email cipruss.roberts@gmail.com
+   17  git config --global user.name Robcons123
+   18  git commit -m class_3
+   19  git commit -m class_3.git
+   20  git push origin main
+   21  cd 
+   22  cr RTR105
+   23  cd RTR105
+   24  ls -lt
+   25  cat README.md
+   26  exit
+   27  init0
+   28  init 0
+   29  nano git-upload
+   30  cd
+   31  pwd
+   32  ls
+   33  whereis ls
+   34  /bin/ls
+   35  echo $PATH
+   36  git clone https://github.com/Robcons123/RTR105
+   37  git clone https://github.com/Robcons123/RTR105_01
+   38  rm RTR105
+   39  rmdir RTR105
+   40  cd RTR105
+   41  ls
+   42  rm README.md
+   43  cd
+   44  rmdir RTR105
+   45  cd RTR105
+   46  ls
+   47  ls -l
+   48  cd
+   49  git clone https://github.com/Robcons123/RTR105
+   50  ls -lt
+   51  cd RTR105
+   52  pwd
+   53  history
+   54  history > history_20220920.txt
+   55  ls -lt
+   56  nano git-upload
+   57  ls -lt
+   58  cat git-upload
+   59  git
+   60  git-upload
+   61  /home/user/RTR105/git-upload
+   62  /user/RTR105/git-upload
+   63  ls RTR105
+   64  cd
+   65  ls /RTR105
+   66  ls
+   67  cd RTR105
+   68  ls
+   69  /RTR105/git-upload
+   70  RTR105/git-upload
+   71  ls
+   72  git/upload
+   73  git-upload
+   74  pwd
+   75  /home/roberts/RTR105/git-upload
+   76  ls -lt git-upload
+   77  chmod 764 git-upload 
+   78  ls -lt git-upload
+   79  git-upload
+   80  git-
+   81  git-upload
+   82  echo $PATH
+   83  ./git-upload
+   84  nano git-upload
+   85  ./git-upload
+   86  nano git-upload
+   87  ./git-upload
+   88  git clone https://github.com/Robcons123/RTR105
+   89  nano git-upload
+   90  ./git-upload
+   91  cd
+   92  ls
+   93  nano git-upload
+   94  cd RTR105
+   95  nano git-upload
+   96  ./git-upload
+   97  nano git-upload
+   98  ./git-upload
+   99  history
+  100  history > history_20220920a.txt
+  101  ./git-upload
+  102  cd ..
+  103  pwd
+  104  rm -rf RTR105
+  105  ls -lt
+  106  rm -rf history_20220913a.txt 
+  107  ls -lt
+  108  history | grep git
+  109  history | grep clone
+  110  git clone https://github.com/Robcons123/RTR105
+  111  cd RTR105
+  112  ls -lt
+  113  echo $PATH
+  114  PATH=$PATH
+  115  echo $PATH
+  116  PATH=$PATH:./
+  117  echo $PATH
+  118  history > history_20220920a.txt
+  119  ls -lt
+  120  ls -lta ~/ | grep hist
+  121  history > history_20220920a.txt
+  122  git-upload
+  123  nano git-upload
+  124  git-upload
+  125  git pull
+  126  git-upload
+  127  nano git-upload 
+  128  git-upload
+  129  nano variables
+  130  ls
+  131  chmod
+  132  chmod variables.sh
+  133  chmod variables.sh 764
+  134  chmod --help
+  135  history | grep mod
+  136  chmod 764 variables.sh
+  137  ls
+  138  ls -lt
+  139  variables.sh 
+  140  nano variables.sh 
+  141  variables.sh a 3
+  142  git-upload
+  143  nano git-upload 
+  144  git-upload
+  145  init 0
+  146  ls
+  147  whereis ls
+  148  pwd
+  149  ls -lt /usr/bin/ls
+  150  cd /bin
+  151  ls
+  152  ls -lt
+  153  echo $0
+  154  ls -l ls
+  155  cat ls
+  156  echo $PATH
+  157  pwd
+  158  ls -lt
+  159  cd RTR105
+  160  mkdir Class_06
+  161  ls -lt
+  162  cd Class_06/
+  163  pwd
+  164  cat ../variables.sh 
+  165  nano first.c
+  166  cat first.c 
+  167  gcc first.c
+  168  sudo apt intall gcc
+  169  sudo apt install gcc
+  170  cd RTR101
+  171  cd RTR105
+  172  ls -lt
+  173  cd Class_06/
+  174  ls -lt
+  175  gcc first.c 
+  176  sudo apt install gcc
+  177  gcc first.c 
+  178  apt-get update
+  179  cd
+  180  sudo apt install gcc
+  181  --fix-missing
+  182  apt-get update
+  183  sudo apt update
+  184  ps aux | grep -i apt
+  185  init 0
+  186  cd RTR105
+  187  ls -lt
+  188  cd Class_06/
+  189  ls -lt
+  190  gcc first.c 
+  191  sudo apt install gcc
+  192  gcc first.c 
+  193  echo $?
+  194  ls -lt
+  195  nano first.c 
+  196  ls -lt
+  197  gcc first.c 
+  198  ls -lt
+  199  ./a.out 
+  200  nano first.c 
+  201  gcc first.c 
+  202  ./a.out 
+  203  echo $?
+  204  nano first.c 
+  205  gcc first.c 
+  206  ./a.out 
+  207  echo $?
+  208  gcc first.c -o first.out
+  209  ls -lt
+  210  ./
+  211  cd .
+  212  cd ./
+  213  cd ../
+  214  ls -lt
+  215  tree
+  216  ls -lta
+  217  nano .gitignore
+  218  ls -lta
+  219  cd Class_06/
+  220  ls -lt
+  221  gcc first.c -S -o first.out
+  222  gcc first.c -S -save-temps -o first.out
+  223  ls -lt
+  224  cat first.c
+  225  cat first.i
+  226  cat first.c
+  227  hexdump -C first.c
+  228  cd .
+  229  cd ..
+  230  ls -lta
+  231  nano git-upload 
+  232  ./git-upload
+  233  history > history_20220927.txt
